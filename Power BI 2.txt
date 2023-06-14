@@ -1,0 +1,64 @@
+Q1. Guided NLQ is a unique self-service BI experience
+    Every question is understood by Guided NLQ
+    Guided NLQ makes it simple to ask complex questions
+    Guided NLQ is integrated throughout Yellowfin
+    It's easy to embed Guided NLQ into your applications
+
+Q2. The WFE cluster uses Azure AD to authenticate clients, and provide tokens for subsequent client connections to the Power BI service.
+
+Q3.The Power BI services at the back end take care of visualizations, datasets, storage, reports, data connections, data refreshing, and other interactions with Power BI .
+  At the back-end,a web client has only two direct points of interaction, Azure API Management, and Gateway Role.
+  These two components are responsible for load balancing, authentication, authorization, routing, etc.
+
+Q4. The ASP.NET Components helps to provide a scalable and reliable architecture for the power bi service.
+
+
+Q5.Data Import:
+- Excel: Supports importing data from various sources, including Excel files, CSV files, text files, and databases.
+- Power BI Desktop: Supports importing data from a wide range of sources, including Excel files, CSV files, text files, databases, and cloud-based sources such as Salesforce, Google Analytics, and Azure.
+
+Data Transformation:
+- Excel: Supports basic data transformation features such as filtering, sorting, and pivot tables.
+- Power BI Desktop: Offers advanced data transformation capabilities such as merging, appending, pivoting, and splitting data.
+
+Modeling:
+- Excel: Offers basic modeling capabilities such as creating relationships between tables and creating calculated columns and measures.
+- Power BI Desktop: Offers advanced modeling capabilities such as creating hierarchies, calculated tables, and calculated columns using DAX formulas.
+
+Reporting:
+- Excel: Offers basic reporting capabilities such as creating charts, tables, and pivot tables.
+- Power BI Desktop: Offers advanced reporting capabilities such as creating interactive reports, dashboards, and data visualizations.
+
+Server Deployment:
+- Excel: Can be deployed on-premises or in the cloud, but requires SharePoint or OneDrive for Business for sharing and collaboration.
+- Power BI Desktop: Can be deployed on-premises or in the cloud, and offers seamless sharing and collaboration through the Power BI Service.
+
+Convert Models:
+- Excel: Can be converted to Power BI Desktop models, but requires manual conversion of formulas and relationships.
+- Power BI Desktop: Can import Excel models and automatically convert them to Power BI Desktop models.
+
+Cost:u
+- Excel: Included in Microsoft Office Suite, which requires a one-time purchase or subscription.
+- Power BI Desktop: Free to download and use, but requires a Power BI Pro or Power BI Premium subscription for sharing and collaboration.
+
+
+Q6.Excel
+Text/CSV
+XML
+JSON
+Oracle Database
+IBM DB2 Database
+MySQL Database
+PostgreSQL Database
+Sybase Database
+Teradata Database
+SAP HANA Database
+SAP Business Warehouse server
+Amazon Redshift
+Impala
+Google BigQuery (Beta)
+Azure SQL Database
+Salesforce Reports
+Google Analytics
+Facebook
+GitHub
