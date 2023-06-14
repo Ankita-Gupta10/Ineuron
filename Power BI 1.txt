@@ -1,0 +1,18 @@
+Q1. Business intelligence (BI) is software that ingests business data and presents it in user-friendly views such as reports, dashboards, charts and graphs.
+
+
+Q2. Power BI is a BI and data visualization tool that leverages visual analytics to empower people and organizations in making the most of their data.
+   Power BI is a cloud-based analysis service that provides rapid insight and is used to extract and visualise data. Power BI brings together data
+   from multiple sources to give you a comprehensive view of your company's information assets.
+
+Q3. Descriptive analytics is a type of data analytics that looks at past data to give an account of what has happened.
+
+Q4. Predictive analytics is the practice of studying historic data to help predict future events and trends.
+
+Q5. Prescriptive analytics is the use of advanced processes and tools to analyze data and content to recommend the optimal course of action or strategy moving forward.
+
+Q6. Waiting On Figures
+  Using Data From Old Reports. 
+  Excessive Time Spent Preparing For Presentations.
+  Being Unable To Find Specific Data Sets.
+  Not Being Able To Determine Your Level Of Success.
