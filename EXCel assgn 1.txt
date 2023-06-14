@@ -1,0 +1,12 @@
+Q1.A cell is the box where the intersection of row and column happens.
+
+Q2. Reviewtab > Protect Sheet > Password.
+
+Q3. click the sheet that you want to copy now go to format tab click on sheet Move Or Copy sheet.
+
+Q4. CTRL + N for new file or document N means new.
+
+Q5.We can see worksheet , Ribbons , Tabs , Save icon .
+
+Q6.when we want to repeat the same formula and give a reference .
+
