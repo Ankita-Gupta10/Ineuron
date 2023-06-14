@@ -1,0 +1,19 @@
+Q1. Dollar ($) sign freezes the particular cell associated with the sign.
+
+Q2. by pressing F4 key  excel wil make it absolute from relative.
+
+Q3. For applying any formula in excel we use (=) . Its Parentheses,exponent,Multiplication,Division,Addition & Subtraction.(PEMDAS)
+
+Q4.Top 5 functions in excel are :
+   
+   1.TEXT FUNCTION 
+   2.SUM FUNCTION =SUM(E2:E10)
+   3.AVG FUNCTION = AVG(E2:E10)
+   4.LOOKUP FUNCTION
+   5.NUMERICAL FUNCTION
+
+   NOTE : U CAN SELECT THE CELL OF IR CHOICE FOR QWHICH U WANT TO CALCULATE THE SUM AND AVG.
+
+Q5. We will use subtotal when we need to Calculate values in filtered rows 
+
+Q6.  VLOOKUP FORMULA = VLOOKUP(What you want to look up, where you want to look for it, the column number in the range containing the value to return, return an Approximate or Exact match – indicated as 1/TRUE, or 0/FALSE).
