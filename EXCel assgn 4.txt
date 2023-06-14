@@ -1,0 +1,12 @@
+Q1. Ribbon tabs are composed of groups, which are a labeled set of closely related commands. In addition to tabs and groups, ribbons consist of Application button, 
+    which presents a menu of commands that involve doing something to or with a document or workspace, such as file-related commands.
+
+Q2. It sets to the default width or height.
+
+Q3. It is necessary to change width and height in excel to fit the data and text.
+
+Q4. Ctrl + Shift + 9.
+
+Q5. Go to the Home tab > Cells group, and click the format button.Under Visibility,point to hide and unhide and then select HIDE ROWS.
+
+Q6. click Data > Data Tools > Remove Duplicates and highlight the unique records.
