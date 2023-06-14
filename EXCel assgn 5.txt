@@ -1,0 +1,12 @@
+Q1. Highlight cell rules,Top bottom rules,data bars,color scales,icon sets.
+
+Q2. Click Home > the Borders arrow ,Pick Draw Borders for outer borders or Draw Border Grid for gridlines.then Borders arrow > Line Color arrow, and then pick a color.
+    Click the Borders arrow > Line Style arrow, and then pick a line style.Select cells you want to draw borders around.
+
+Q3. Home tab > numbers > general > select currency.
+
+Q4. Home tab > numbers > general > percentage.
+
+Q5. Home tab > ALignment > control and use merge cells option.
+
+Q6. On the Home tab, in the Number group, click the arrow next to the Number Format box, and then click Text.
