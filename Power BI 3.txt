@@ -1,0 +1,21 @@
+Q1. POWER QUERY - DATA MANIPULATION
+    POWER PIVOT - DATA MODELLING
+    POWER BI DESKTOP - DASHBOARD AND VISUALIZATION
+    POWER BI SERVICE - FOR PUBLISHING REPORTS 
+
+Q2. POWER BI can handle large amount of data and can connect to various data sources,
+    but excel cannot very large amount of data neither can connect to various sources but can only connect to multiple sources
+
+Q3. POWER QUERY is a data manipulation and data transfomation tool Power Query comes with a graphical interface for getting data from sources 
+   and a Power Query Editor for applying transformations. Because the engine is available in many products and services,
+   the destination where the data will be stored depends on where Power Query was used. Using Power Query, you can perform the extract,
+   transform, and load (ETL) processing of data. 
+
+Q4. A power map lets you discover insights you might not see in traditional two-dimensional (2-D) tables and charts. With Power Map,
+    you can plot geographic and temporal data on a 3-D globe or custom map, show it over time, and create visual tours you can share with other people.
+
+Q5. POWER BI makes it easy to connect to data sources,create reports and dashboards,and share them with others. we dont need  to host a sharepoint server on
+   premises because Power BI provides a cloud based solution for data visualization and analysis.
+
+Q6. Some  of the key updates include the ability to import data from a wide range of sources,enhanced data modelling and querying capabilities improved collaboration and sharing features and new visualizations like the treemap and sunburst charts.
+   it also introduced support for mobile devices, making it easier to access dashboards and reports on the go.
