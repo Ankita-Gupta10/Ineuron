@@ -1,0 +1,13 @@
+Q1. Select a cell next to the numbers you want to sum: To sum a column, select the cell immediately below the last value in the column Now click the AutoSum button 
+    on either the Home tab and enter 
+
+Q2. ALT + =
+
+Q3. Change formula to include adjacent cells.
+
+Q4. select one or more cells in 2016 excel.
+
+Q5. The contents of the first cell in the selected column will be replaced with the letters 'O-C-W'.
+
+Q6.the cell which we select in that the row will get inserted.
+                          
