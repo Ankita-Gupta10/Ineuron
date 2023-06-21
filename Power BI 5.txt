@@ -1,0 +1,24 @@
+Q1. DAX stands for  Data Analysis Expression DAX is a collection of functions, operators, and constants that can be used in a formula,
+  or expression, to calculate and return one or more values. Stated more simply, DAX helps you create new information from data already in your model.
+
+Q2. A Power BI Dataset is a series of Power Query queries that have been shaped in a DAX model. Each dataset can combine different files, 
+    database tables and online services all into one tabular model.  A power BI report is a series of visualizations, filters and static elements on a canvas.
+    Power BI reports are saved as a single PBIX file and connect to a single dataset. Remember, a Power BI dataset can have many data sources.
+    A Power BI dashboard is a single page, often called a canvas, that uses visualizations to tell a story. Because it is limited to one page, 
+    a well-designed dashboard contains only the most-important elements of that story.
+
+Q3. Select a data source.
+    Design your report.
+    Save your report to the report server.
+
+Q4. In the left navigation pane,click get data.Now from the list select google analytics and then click connect.
+
+Q5. In Power BI, click Get Data in the lower left screen.
+    Under Import or Connect to Data > Files, click Get.
+    Click Local File.
+    Choose which file to upload and click Open.
+    Click Upload under Upload your Excel file to Power BI.
+    The message “Your file has been uploaded” should appear.
+
+Q6. Reading view for report business users and Editing view for report owners and creators. 
+    You need a Power BI Pro or Premium Per User (PPU) license to share reports and to edit reports created by others.
