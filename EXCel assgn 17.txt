@@ -1,0 +1,25 @@
+Q1. A module is the fundamental syntactic unit of VBA source code. The physical representation of a module is implementation dependent but 
+   logically a VBA module is a sequence of Unicode characters that conform to the VBA language grammars.
+   Code Modules allow us to store regular macros (sub procedures) and functions (User Defined Functions, UDFs).  This is the typical place we start writing and storing our macros. 
+   The macro recorder also creates code in a code module.
+
+Q2. As you probably know a standard module can store procedures and functions which can be either Private or Public (the default) and can be accessed either from within that module only (Private) or from anywhere in the project (Public). Modules are also used to store variables, 
+   constants and declarations (i.e. API calls) that will need to be accessed from anywhere in the project.
+   Class modules allow you to create your own objects which can have their own properties and methods like any other object (range, worksheet, Excel, chart, blah, blah).
+   The best way of describing is by use of a simple example. Say you wanted to have code that would allow you to create an invoice object, assign it a number, customer name, net amount, and VAT. You'd then want to save that invoice as a new workbook.
+
+Q3. A procedure tells the application how to perform a specific task. Use procedures to divide complex code tasks into more manageable units
+    A property procedure is a series of Visual Basic statements that manipulate a custom property on a module, class, or structure.
+    A Function procedure is a series of Visual Basic statements enclosed by the Function and End Function statements. 
+
+Q4. A Sub procedure is a series of Visual Basic statements enclosed by the Sub and End Sub statements. The Sub procedure performs a task and then returns control to the calling code, but it does not return a value to the calling code.
+    A Sub procedure can take arguments, such as constants, variables, or expressions, which are passed to it by the calling code.
+    Sub procedure in modules, classes, and structures.
+
+Q5.First, click on the line where you want to insert the comment.
+  After that, type an APOSTROPHE using your keyboard key.
+  Next, type the comment that you want to add to the code.
+  In the end, hit enter to move to the new line and the comment will turn green.
+  select all the lines and then use the comment button from the toolbar or you can also add an APOSTROPHE at the starting of each line. 
+
+-----PS ---- TWO QUESTIONS(3,5) ARE REPEATED IN ASSIGNMENT PLS UPDATE THAT SOON------
