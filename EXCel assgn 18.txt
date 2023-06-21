@@ -1,0 +1,20 @@
+Q1. In computer programming, a comment is a programmer-readable explanation or annotation in the source code of a computer program.
+    They are added with the purpose of making the source code easier for humans to understand, and are generally ignored by compilers and interpreters.
+
+Q2. The CALL statement transfers control from one object program to another within the run unit. The program containing the CALL statement is the calling program; 
+    the program identified in the CALL statement is the called subprogram.
+
+Q3. You can compile your VBA code by clicking Debug Menu → Compile VBA Project. 
+    Syntax errors – A specific line of code is not written correctly.
+    Compile errors – Issues that happen when putting together lines of code, though the individual lines of code seem to make sense.
+
+Q4. Hot keys are sometimes called shortcut keys. You can customize keyboard shortcuts (or shortcut keys) by assigning them to a command, macro, font, style, or frequently used symbol. You can also remove keyboard shortcuts.
+    You can assign or remove keyboard shortcuts by using a mouse or just the keyboard.
+
+Q6. Jump between Excel and the VB Editor Window	Alt+F11
+    Run Macro/Procedure	F5
+    Step Through Each Line of Code	F8
+    Run to Cursor	Ctrl+F8
+
+Q5. DID IT IN EXCEL
+
