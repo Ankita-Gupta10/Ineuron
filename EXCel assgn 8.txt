@@ -1,0 +1,18 @@
+Q1. Autocomplete is a feature within Google Search that makes it faster to complete searches that you start to type.
+   Our automated systems generate predictions that help people save time by allowing them to quickly complete the search they already intended to do.
+
+Q2.A workbook is a file that contains one or more worksheets to help you organize data. You can create a new workbook from a blank workbook or a template.
+   while a term used to describe the logical and strategic arrangement of resources in a business environment including people, machinery, and other equipment.
+
+Q3.we can quickly copy formulas into adjacent cells by using the fill handle. When you drag the handle to other cells, Excel will show different results for each cell.
+
+Q4.if you have to enter numbers 1 to 20 in cell A1:A20, instead of manually entering each number, you can simply enter the first two numbers and use the fill handle to do the rest.
+
+Q5.Excel Flash Fill is a special tool that analyzes the information you are entering and automatically fills data when it identifies a pattern. The Flash Fill feature was introduced in
+   Excel 2013 and is available in all later versions of Excel 2016, Excel 2019, Excel 2021, and Excel for Microsoft 365.
+
+Q6.Insert or delete rows, and columns. 
+   Select cell contents in Excel.
+   Freeze panes to lock rows and columns. 
+   Hide or show rows or columns. 
+  
