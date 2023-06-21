@@ -1,0 +1,25 @@
+Q1. An Excel macro is an action or a set of actions that can be recorded, named, saved and executed as many times as required and whenever desired. 
+    By using macros, we are able to automate repetitive tasks associated with data manipulation and data reporting that must be accomplished repeatedly.
+
+Q2.  Visual Basic for Application is a human-readable and editable programming code that gets generated when you record a macro. 
+     Today, it is widely-used with other Microsoft Office applications such as MS-Word, MS-Excel, and MS-Access.
+
+
+Q3. Click View > Macros > Record Macro.
+    Type a name for the macro.
+    To use this macro in any new documents you make, be sure the Store macro in box says All Documents (Normal. ...
+    To run your macro when you click a button, click Button.
+    Click the new macro (it's named something like Normal.
+
+
+Q4. Visual Basic Editor is a separate application that is a part of Excel and opens whenever you open an Excel workbook.
+    By default, it’s hidden and to access it, you need to activate it.
+    VB Editor is the place where you keep the VB code.
+
+Q5. An interface is a collection of prototypes representing the members (methods and properties) that the interface encapsulates; that is, it contains only the declarations for the member procedures. 
+    A class provides an implementation of all the methods and properties of one or more interfacesThe Properties window displays the properties of single or multiple selected items. If multiple items are selected, the intersection of all properties for all selected objects is displayed.
+    Events related to a selected object within a form design window or HTML editor using COM+ metadata are displayed in the Properties window. For example, you can select a button and display 
+    its associated events, such as an OnClick event, which can be linked to that button.
+
+Q6. The Immediate window displays information resulting from debugging statements in your code or from commands typed directly into the window. 
+    The Immediate window evaluates expressions by building and using the currently selected project. To display the Immediate window, open a project for editing, and then choose Debug > Windows > Immediate or press Ctrl+Alt+I. You can also enter Debug. Immediate in the Command window.
