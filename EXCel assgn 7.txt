@@ -1,0 +1,33 @@
+Q1. SUM - ADDS up  a range of cells
+  AVERAGE - calculate the average of a range of cells
+  MAX - returns the highest value 
+  MIN - returns the lowest value
+  COUNT - count the numbers of cells in a range that contains numbers
+  IF - test a condition and returns one value if the condition is met and another value if the condition is not met.
+  CONCATENATE - joins two or more string of text into one
+  LEFT - returns leftmost characters from the string.
+  RIGHT- returns rightmost characters from the string.
+
+
+
+Q2. select multiple rows or columns, click and drag over several row numbers or column letters.
+    Then you can do things like change the formatting for the highlighted cells.
+
+Q3. AutoFit is a feature in Excel that allows you to quickly adjust the row height or column width to fit the text completely (so that there is no spilling over to other cells). 
+    Autofit Row Height: This feature automatically adjusts the row height to fit the text in the cell. You can autofit multiple rows at once.
+
+Q4. To add rows, click Insert Above or Insert Below and to add columns, click Insert Left or Insert Right.
+
+Q5. Right-click the selected columns, and then select Hide.
+
+Q6. did it in excel
+
+Product	Quantity price
+Apples	10	50
+oranges	15	75
+bananas	15	25
+TOTAL	40	150
+AVG		75
+MAX		150
+MIN		25
+
