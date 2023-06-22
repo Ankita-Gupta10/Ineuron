@@ -1,0 +1,15 @@
+Q1. PyInputPlus is a third-party module and doesn't come with the Python Standard Library.
+
+Q2. You can import the module with import pyinputplus as pyip so that you can enter a shorter name when calling the module's functions.
+    PyInputPlus has functions for entering a variety of input, including strings, numbers, dates, yes/no, True/False, emails, and files.
+
+Q3. The inputInt() function returns an integer, while the inputFloat() function returns a float value.
+    The inputFloat() function returns an integer, while the inputInt() function returns a float.
+
+Q4. By using pyip. inputint(min=1, max=100) .
+
+Q5. keyword arguments take a list of regular expression strings to determine what the PyInputPlus function will accept or reject as valid input.
+
+Q6. It will throw RetryLimitException exception
+
+Q7. Blank values are not allowed
