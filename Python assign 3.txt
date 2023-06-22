@@ -1,0 +1,35 @@
+Q1. The use of functions makes a program more readable. It's frequently difficult to read a large program. Breaking the code down into smaller functions keeps the program structured, understandable, and reusable.
+    The function can be reused countless times after it is defined.
+
+Q2. A function is a code block that only executes when called and always returns a value.
+
+Q3. the DEF keyword .
+
+Q4. A function is a piece of code which enhanced the reusability and modularity of your program. It means that piece of code need not be written again.
+    A function call means invoking or calling that function. Unless a function is called there is no use of that function.
+
+Q5. 1 global & 1 local.
+
+Q6. When the execution of the function terminates (returns), the local variables are destroyed.
+
+Q7. A return is a value that a function returns to the calling script or function when it completes its task. A return value can be
+    any one of the four variable types: handle, integer, object, or string. The type of value your function returns depends largely on the task it performs.
+    If the data type of the expression is different from the function return type, conversion of the return value takes place 
+    as if the value of the expression were assigned to an object with the same function return type. 
+
+Q8. If no return statement appears in a function definition, control automatically returns to the calling function after the last statement of the called function is executed.
+    In this case, the return value of the called function is undefined
+
+Q9. If you want to refer to a global variable in a function, you can use the global keyword to declare which variables are global.
+
+Q10. None is a data type of its own (NoneType) and only None can be None.
+
+Q11. That import statement imports a module named areallyourpetsnamederic.
+
+Q12. This function can be called with spam. bacon().
+
+Q13. If an error occurs in a program, we don't want the program to unexpectedly crash on the user. Instead, error handling can be used to notify the user 
+     of why the error occurred and gracefully exit the process that caused the error
+
+Q14. The try block lets you test a block of code for errors. The except block lets you handle the error. The else block lets you execute code when there is no error. 
+     The finally block lets you execute code, regardless of the result of the try- and except blocks.
