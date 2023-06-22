@@ -1,0 +1,37 @@
+Q1. An escape character is a backslash \ followed by the character you want to insert.
+
+Q2. It is used in representing certain whitespace characters: "\t" is a tab, "\n" is a newline, and "\r" is a carriage return.
+
+Q3. If you want to include a backslash character itself, you need two backslashes or use the @ verbatim string: var s = "\\Tasks"; // or var s = @"\Tasks"; Read the MSDN documentation/C# Specification
+    which discusses the characters that are escaped using the backslash character and the use of the verbatim string literal.
+
+Q4. The single quote in Howl's is fine because you've used double quotes to mark the beginning and end of the string.
+
+Q5. Multiline strings allow you to use newlines in strings without the \n escape character.
+
+Q6. The expressions evaluate to the following:
+
+'e'
+
+'Hello'
+
+'Hello'
+
+'lo world!
+
+
+Q7. The expressions evaluate to the following:
+
+'HELLO'
+
+True
+
+'hello'
+
+Q8.['Remember,', 'remember,', 'the', 'fifth', 'of', 'November.']
+
+'There-can-be-only-one.'
+
+Q9. The rjust(), ljust(), and center() string methods, respectively
+
+Q10. The lstrip() and rstrip() methods remove whitespace from the left and right ends of a string, respectively.
