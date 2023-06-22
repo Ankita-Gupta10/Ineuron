@@ -1,0 +1,30 @@
+Q1. PdfFileReader() needs to be opened in read-binary mode by passing 'rb' as the second argument to open().
+    Likewise, the File object passed to PyPDF2. PdfFileWriter() needs to be opened in write-binary mode with 'wb'.
+
+Q2. You can get a Page object by calling the getPage() method  on a PdfFileReader object and passing it the page number
+    of the page you're interested in—in our case, 0.
+
+Q3. The total number of pages in the document is stored in the numPages attribute of a PdfFileReader object 1.
+
+Q4. Read-binary ('rb') for PdfFileReader() and write-binary ('wb') for PdfFileWriter()
+
+Q5. Method 1: Rotate a list using Slicing.
+  Method 2: Rotate a list using list Comprehension.
+  Method 3: Rotate a list using collections. deque. rotate()
+
+Q6. A document contains multiple paragraphs. A paragraph begins on a new line and contains multiple runs. 
+    Runs are contiguous groups of characters within the a paragraph.
+
+Q7. doc.add_paragraph('Hello there!')
+
+Q8. Run Attributes.
+
+Q9. True and False are specific bool values. Use default False when you have a bool field and you want the default to be False.
+    Don't use False as a value for a non- bool field. None is used as a generic placeholder when the value will be set later.
+
+Q10. Call the docx.Document() function.
+
+Q11. doc.add_paragraph('Hello there!')
+
+Q13. The integer 0 makes the heading the Title style, which is used for the top of the document. Integers 1 to 4 are for various heading levels, with 1 being the main heading and 4 the lowest subheading.
+
