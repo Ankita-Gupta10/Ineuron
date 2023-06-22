@@ -1,0 +1,24 @@
+Q1. A relative path in Python is a path that describes the location of a directory relative to the entry point where you run the Python script.
+
+Q2. An absolute path makes no assumptions about your current location in relation to the location of the file or directory it's describing. An absolute path always begins from the absolute 
+    start of your hard drive and describes every step you must take through the filesystem to end up at the target location.
+
+Q3. getcwd() : CWD stands for Current Working Directory. This function allows you to see what your current working directory is. chdir("path-to-dir") : 
+    Short for CHange DIRectory, this function allows you to set the current working directory to a path of your choice.
+
+Q4. A directory is a collection of files and subdirectories. A directory inside a directory is known as a subdirectory. 
+    Python has the os module that provides us with many useful methods to work with directories (and files as well).
+
+Q5. C:\bacon\eggs is the dir name, while spam. txt is the base name.
+
+Q6. r : Opens the file in read-only mode. ...
+    rb : Opens the file as read-only in binary format and starts reading from the beginning of the file.
+    r+ : Opens a file for reading and writing, placing the pointer at the beginning of the file.
+
+Q7. Its contents are discarded and the file is treated as a new empty file.
+
+Q8. The only difference between the Read() and ReadLine() is that Console. Read is used to read only single character from the standard output device, while Console. 
+    ReadLine is used to read a line or string from the standard output device.
+
+Q9. A shelf value resembles a dictionary value; it has keys and values, along with keys()
+    and values() methods that work similarly to the dictionary methods of the same names.
