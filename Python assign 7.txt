@@ -1,0 +1,45 @@
+Q1. Creating Regex Objects.Passing a string value representing your regular expression to re. compile() returns a Regex pattern object (or simply, a Regex object)
+
+Q2. Raw strings are used so that backslashes do not have to be escaped.
+
+Q3. The search() method returns Match objects.
+
+Q4. The group() method returns strings of the matched text.
+
+Q5. Group 0 is the entire match, group 1 covers the first set of parentheses, and group 2 covers the second set of parentheses.
+
+Q6. Periods and parentheses can be escaped with a backslash: \., \(, and \).
+
+Q7. If the regex has no groups, a list of strings is returned. If the regex has groups, a list of tuples of strings is returned.
+
+Q8. The | character signifies matching "either, or" between two groups.
+
+Q9. ----QUESTION IS NOT MENTIONED FULLY WHICH CHARACTER ARE THEY TALKING ABOUT OF REGEX. PLS MENTION PROPERLY.
+
+Q10. The + matches one or more. The * matches zero or more.
+
+Q11. The {4} matches exactly FOUR instances of the preceding group. The {4,5} matches between FOUR and five instances.
+
+Q12. The \d, \w, and \s shorthand character classes match a single digit, word, or space character, respectively.
+
+Q13. The \D, \W, and \S shorthand character classes match a single character that is not a digit, word, or space character, respectively.
+
+Q14. (.*?) matches any character (.) any number of times (*), as few times as possible to make the regex match (?). You'll get a match on any string,
+      but you'll only capture a blank string because of the question mark. This feature is much more useful when you have a more complicated regex.
+
+Q15. Either [0-9a-z] or [a-z0-9]
+
+Q16. Passing re.I or re.IGNORECASE as the second argument to re.compile() will make the matching case insensitive.
+
+Q17. The . character normally matches any character except the newline character. If re.DOTALL is passed as the second argument 
+    to re.compile(), then the dot will also match newline characters.
+
+Q18. 'X drummers, X pipers, five rings, X hens'
+
+Q19. The re.VERBOSE argument allows you to add whitespace and comments to the string passed to re.compile().
+
+Q20. re.compile(r'^\d{1,3}(,\d{3})*$') will create this regex, but other regex strings can produce a similar regular expression.
+
+
+
+
