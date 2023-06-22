@@ -1,0 +1,61 @@
+Q1. TRUE AND FALSE .We wriet them as 1 and 0.
+
+Q2. and,or,not
+
+Q3. False
+False
+True
+False
+False
+True
+
+Q4. ==, !=, <, >, <=, and >=.
+
+Q5. == is the equal to operator that compares two values and evaluates to a Boolean, while = is the assignment operator that stores a value in a variable.
+
+Q6. The three blocks are everything inside the if statement and the lines print('bacon') and print('ham').
+
+print('eggs')
+if spam > 5:
+print('bacon')
+else:
+print('ham')
+print('spam')
+
+Q7. The three blocks are everything inside the if statement and the lines print('bacon') and print('ham').
+
+print('eggs')
+if spam > 5:
+print('bacon')
+else:
+print('ham')
+print('spam')
+
+Q8. The code:
+
+if spam == 1:
+print('Hello')
+elif spam == 2:
+print('Howdy')
+else:
+print('Greetings!')
+
+Q9. CTRL-C 
+
+Q10. The break statement will move the execution outside and just after a loop. The continue statement will move the execution to the start of the loop.
+
+Q11. They all do the same thing. The range(10) call ranges from 0 up to (but not including) 10, range(0, 10) explicitly tells the loop to start at 0, and range(0, 10, 1) explicitly tells the loop to increase the variable by 1 on each iteration.
+    
+Q12. The code:
+
+for i in range(1, 11):
+print(i)
+
+and:
+
+i = 1
+while i <= 10:
+print(i)
+i = i + 1
+
+Q13. This function can be called with spam.bacon().
