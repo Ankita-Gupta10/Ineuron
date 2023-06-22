@@ -1,0 +1,21 @@
+Q1. 6,-87.8 are values and expressions.
+
+Q2. A String is usually a sequence of characters  enclosed with " ".while Variable are containers in which we store some value or string.
+
+Q3. String,Integer,Boolean.
+
+Q4. An expression is a combination of operators, constants and variables. An expression may consist of one or more operands, and zero or more operators to produce a value.
+
+Q5. An expression evaluates to a single value. A statement does not.
+
+Q6. 22 only coz we didnt reassign the value to bacon.
+
+Q7. Both expressions evaluate to the string 'spamspamspam'.
+
+Q8. Variable names cannot begin with a number.
+
+Q9. The int(), float(), and str() functions will evaluate to the integer, floating-point number, and string versions of the value passed to them.
+
+
+Q10. The expression causes an error because 99 is an integer, and only strings can be concatenated to other 
+     Strings with the + operator. The correct way is I have eaten ' + str(99) + ' burritos.'.
