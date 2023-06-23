@@ -1,0 +1,36 @@
+Q1. Empty list.
+
+Q2. spam[2] = 'hello' 
+
+Q3. 
+
+Q4. d
+
+Q5. a,b
+
+Q6. 1
+
+Q7. [3.14,cat, 11, cat, True,99] it will just append the values at the end.
+
+Q8. [3.14, 11, cat, True,] remove cat will remove the first appearance of cat.
+
+Q9. The operator for list concatenation is +, while the operator for replication is *. (This is the same as for strings.)
+
+Q10. Append will append the values at the end while Insert can insert values anywhere in the list.
+
+Q11. Two methods are Remove,Pop and delete.
+
+Q12. Both lists and strings can be passed to len(), have indexes and slices, be used in for loops,
+    be concatenated or replicated, and be used with the in and not in operators.
+
+Q13. The difference between tuples and lists are Tuples are Immutable while List are mutable.
+
+Q14. (42,) (The trailing comma is mandatory.)
+
+Q15. The tuple() and list() functions, respectively
+
+Q16. They contain references to list values.
+
+Q17. The copy.copy() function will do a shallow copy of a list, while the copy.deepcopy() function will do a deep copy of a list. That is, only copy.deepcopy() will duplicate any lists inside the list.
+
+
