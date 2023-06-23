@@ -1,0 +1,11 @@
+Q1. The difference is that a generator is defined using parentheses, while list comprehensions are defined using square brackets.
+
+Q2. Iterators are the objects that use the next() method to get the next value of the sequence.
+   A generator is a function that produces or yields a sequence of values using a yield statement. 
+
+Q3. A generator function is a function with one or more yield statements in it. Unlike regular functions, generator functions return generator objects.
+
+Q4. The yield statement returns a generator object to the one who calls the function which contains yield, instead of simply returning a value.
+
+Q5. List comprehension returns a list, whereas the map function returns an object of Iterable. List comprehension execution is faster than that of map function when the formula expression is huge and complex.
+    Map function is faster than list comprehension when the formula is already defined as a function earlier.
