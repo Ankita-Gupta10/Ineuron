@@ -1,0 +1,21 @@
+Q1.The def keyword is used to define normal functions, while the lambda keyword is used to define anonymous functions. They are, however, 
+  limited to a single line of expression. They, like regular functions, can accept several parameters.
+
+Q2. Lambda enables you to use functions with pre-trained machine learning (ML) models to inject artiﬁcial intelligence into applications more easily
+
+Q3. reduce() runs a callback for every array element just like . map() does. The only difference is that reduce() passes the result of this accumulator from one array element to the other.
+
+Q4. Function annotations are some random expressions which are written with the functions, and they are evaluated at compile time. They do not exist at run time, and there is no meaning of these
+   expressions to python. They are used and interpreted by a third party or external python libraries.
+
+Q5. A recursive function is a function in code that refers to itself for execution. Recursive functions can be simple or elaborate. They allow for more efficient code writing, for instance, in the listing 
+  or compiling of sets of numbers, strings or other variables through a single reiterated process
+
+Q6. Safe: It can be used without causing harm.
+Secure: It can't be hacked.
+Reliable: It functions as it should, every time.
+Testable: It can be tested at the code level.
+Maintainable: It can be maintained, even as your codebase grows.
+
+
+Q7. You can invoke or call a function in two ways: call by value and call by function.
