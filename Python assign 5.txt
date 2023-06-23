@@ -1,0 +1,15 @@
+Q1. Empty dictionarys code {}.
+
+Q2. The value of a dictionary value with the key &#39;foo&#39; and the value 42 is 42
+
+Q3. The most significant distinction between a dictionary and a list is that dictionary uses {} while list uses [] , dicstionary is a set of key value pairs while list contains heteregenous values.
+
+Q4. we get a key error .
+
+Q5. There is no difference. The in operator checks whether a value exists as a key in the dictionary.
+
+Q6. 'cat' in spam checks whether there is a 'cat' key in the dictionary, while 'cat' in spam.values() checks whether there is a value 'cat' for one of the keys in spam.
+
+Q7. spam.setdefault('color', 'black')
+
+Q8. pprint.pprint()
