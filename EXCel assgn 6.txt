@@ -1,0 +1,22 @@
+Q1. The interface components of Excel include the Quick Access Toolbar, Ribbon, Name Box, Formula Quick Menu, Formula Bar,
+    Status Bar, Worksheet View Options, Zoom Slider Control, and the Zoom Percentage Indicator.
+
+Q2. Microsoft Excel enables users to identify trends and organize and sort data into meaningful categories. Excel also performs Human Resources functions, such as sorting worked hours and organizing employee profiles and expenses,
+    which help businesses better understand the structure and activities of their workforce.
+
+Q3. In the Customize the Ribbon window, under the Customize the Ribbon list, click the tab that you want to add a group to. Click New Group. 
+   To rename the New Group (Custom) group, right-click the group, click Rename, and then type a new name.
+
+Q4. Ctrl+Shift+! Applies comma formatting.
+Ctrl+Shift+$ Applies currency formatting.
+Ctrl+Shift+# Applies date formatting.
+Ctrl+Shift+% Applies percentage formatting.
+Ctrl+Shift+^ Applies exponential formatting.
+Ctrl+Shift+* Selects the current region around the active cell.
+
+Q5. MS Excel is a spreadsheet program that can handle basic data analysis tasks such as sorting, filtering, and creating basic charts and graphs. However, data analysis tools like R Studio, Power BI, and Tableau are designed specifically for data analysis
+   and offer more advanced functionality such as statistical analysis, data visualization, and machine learning.
+
+Q6. Click the worksheet to which you want to add specific header or footer elements.
+    On the Insert tab, in the Text group, click Header & Footer. ...
+    Click the left, center, or right header or footer text box at the top or the bottom of the worksheet page.
