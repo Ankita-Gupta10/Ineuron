@@ -1,0 +1,18 @@
+Q1. Red-Green-Blue-Alpha . The RGB color model is extended in this specification to include “alpha” to allow specification of the opacity of a color.
+
+Q2. Pillow offers the ImageColor. getcolor() function so you don't have to memorize RGBA values for the colors you want to use. This function takes a color
+    name string as its first argument, and the string 'RGBA' as its second argument, and it returns an RGBA tuple.
+
+Q3. The box.tuple submodule provides read-only access for the tuple userdata type. It allows, for a single tuple: selective retrieval of the field contents, retrieval
+    of information about size, iteration over all the fields, and conversion to a Lua table.
+
+Q4. You can get the original width and height of an image using the HTML5 image naturalWidth and naturalHeight properties, which are supported in almost all major browsers.
+  To get the current width and height, you can use the JavaScript clientWidth and clientHeight properties.
+
+Q5. To get an Image object for a 100x100 image, excluding the lower-left quarter of it, you would need to use the HTML5 Canvas API to manipulate the image data.
+
+Q6. Saving an image in Python is just as simple. You simply call save() and pass in the name you want used to save your image
+
+Q7. The 'ImageDraw' module provides simple 2D graphics support for Image Object. Generally, we use this module to create new images, annotate or retouch existing images and to generate graphics on the fly for web use.
+
+Q8. To show or display an image in Python Pillow, you can use show() method on an image object. The show() method writes the image to a temporary file and then triggers the default program to display that image. Once the program execution is completed, the temporary file will be deleted.
