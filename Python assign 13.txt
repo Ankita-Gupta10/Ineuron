@@ -1,0 +1,19 @@
+Q1. Excel is superior to the CSV file format; thus, CSV consumes less file size when the user is importing data; it is a much faster format 
+    compared to Excel. CSV does not manipulate data and stores it as-is. Excel also allows the user the add-in feature.
+
+Q2. call open() and pass it 'w' to open a file in write mode ❶. This will create the object you can then pass to csv. writer()  to create a Writer object.
+    On Windows, you'll also need to pass a blank string for the open() function's newline keyword argument.
+
+Q3. 
+'r'	Open a file for reading. (default)
+'w'	Open a file for writing. Creates a new file if it does not exist or truncates the file if it exists.
+'x'	Open a file for exclusive creation. If the file already exists, the operation fails.
+
+Q4. The most common method to write data from a list to CSV file is the writerow() method of writer and DictWriter class
+
+Q5. This changes the delimiter and line terminator characters in your file. The delimiter is the character that appears between cells on a row.
+
+Q6. loads() We use the json. loads() method to parse a JSON string and return a Python object such as a dictionary.
+
+Q7. dumps() can be used for converting a Python object into a JSON string. The json. dumps() function takes one parameter, which is the data to be converted into JSON string.
+
